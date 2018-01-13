@@ -1,0 +1,7 @@
+" This .vimrc.local file is used to conform to the CMake code style
+
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+set autoindent

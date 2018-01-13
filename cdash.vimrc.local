@@ -1,0 +1,7 @@
+" This .vimrc.local file is used to conform to the CDash code style
+
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set autoindent
